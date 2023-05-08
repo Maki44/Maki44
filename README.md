@@ -19,7 +19,7 @@ https://camo.githubusercontent.com/a3bbc59f190482c45788b1d213d1dc1b8f426691e0e63
 🔭 Learning Path
 
 - Python
-- Docker
-- kubernetes
+- Machine Learning
+
 
 📫 How to reach me: sebhatumakda20@gmail.com
